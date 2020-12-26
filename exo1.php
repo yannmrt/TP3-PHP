@@ -2,8 +2,8 @@
 
 class Exo1 {
 
-    private $nom;
-    private $prenom;
+    private $_nom;
+    private $_prenom;
 
     function afficheUser() {
         echo "Je suis un User";
