@@ -48,6 +48,7 @@ class Personnage {
 }
 
 
+
 ?>
 <!DOCTYPE html>
 <html>

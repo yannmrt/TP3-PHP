@@ -42,7 +42,7 @@ class Personnage {
     // Dans la fonction suivante nous allons défendre, on rentre les valeurs suivantes :
     // $valeur = valeur de l'attaque
     public function defense($valeur) {
-        $this->_vie = $valeur;
+        $this->_vie = $this->_vie - $valeur;
     }
 
 }
