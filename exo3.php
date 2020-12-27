@@ -3,7 +3,7 @@
 class Personnage {
 
     private $_pseudo;
-    private $_vie = 100;
+    private $_vie=100;
 
     public function __construct($pseudo, $vie) {
         $this->_pseudo = $pseudo;

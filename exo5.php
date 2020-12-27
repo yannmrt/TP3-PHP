@@ -3,7 +3,7 @@
 class Personnage {
 
     private $_pseudo;
-    private $_vie=100;
+    private $_vie;
     private $_attaque=50;
 
     // Dans la fonction suivante on construit l'objet et on rentre les valeurs suivantes :
@@ -52,7 +52,7 @@ class Personnage {
 <!DOCTYPE html>
 <html>
 <head> 
-   <title>Exercices 4</title>
+   <title>Exercices 5</title>
 </head>
 <body>
 
